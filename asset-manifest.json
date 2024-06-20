@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/wood/static/css/main.b6d930d5.css",
+    "main.js": "/wood/static/js/main.777a48d5.js",
+    "static/js/453.3ca05a4c.chunk.js": "/wood/static/js/453.3ca05a4c.chunk.js",
+    "static/media/back.png": "/wood/static/media/back.3d30422a911ca0aa8305.png",
+    "static/media/woods.png": "/wood/static/media/woods.21606d7f7f78d0203f02.png",
+    "static/media/howTo_d.png": "/wood/static/media/howTo_d.34b5b6f770c73077c52a.png",
+    "static/media/telegram_yellow.png": "/wood/static/media/telegram_yellow.74b90eef62d161ae821c.png",
+    "static/media/twitter_yellow.png": "/wood/static/media/twitter_yellow.5abd2e8e61328903378c.png",
+    "static/media/telegram_red.png": "/wood/static/media/telegram_red.9a37a6cc971ce352a8e0.png",
+    "static/media/dextools_green.png": "/wood/static/media/dextools_green.b003a30ef8c20345bc69.png",
+    "static/media/twitter_green.png": "/wood/static/media/twitter_green.bd9830e6f41bf659495b.png",
+    "static/media/telegram_green.png": "/wood/static/media/telegram_green.3ac2a84c3bcdf7d45a76.png",
+    "static/media/about_d.png": "/wood/static/media/about_d.db12612a409cf76a812b.png",
+    "static/media/DigitalStrip2BB_reg.ttf": "/wood/static/media/DigitalStrip2BB_reg.b95597b03b361517f79c.ttf",
+    "static/media/DigitalStrip2BB_bold.ttf": "/wood/static/media/DigitalStrip2BB_bold.adfc2bea7045a27bf306.ttf",
+    "static/media/howTo_m.png": "/wood/static/media/howTo_m.ebed3d3c2ccb2c5a35e9.png",
+    "static/media/about_m.png": "/wood/static/media/about_m.5eb111b50542299a9f94.png",
+    "index.html": "/wood/index.html",
+    "main.b6d930d5.css.map": "/wood/static/css/main.b6d930d5.css.map",
+    "main.777a48d5.js.map": "/wood/static/js/main.777a48d5.js.map",
+    "453.3ca05a4c.chunk.js.map": "/wood/static/js/453.3ca05a4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6d930d5.css",
+    "static/js/main.777a48d5.js"
+  ]
+}
